@@ -1,0 +1,6 @@
+hello
+git remote add origin git@github.com:nanyaonan/learngit.git
+git push -u origin master
+cat ~/.ssh/id_rsa.pub
+ssh-keygen -t rsa -C "309814421@qq.com"
+git clone git@github.com:nanyaonan/gitskills.git
